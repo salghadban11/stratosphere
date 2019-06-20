@@ -25,37 +25,21 @@ You will need a GitHub account for this part.
 3. Go to the following project:
 >[https://github.com/gcharest/stratosphere](https://github.com/gcharest/stratosphere)
 4. Fork the repository:
-![Fork button](assets/fork.png)
+>![Fork button](assets/fork.png)
 5. Wait until it is done Forking
-![Wait screen](assets/forking.png)
+>![Wait screen](assets/forking.png)
 6. Confirm that your are in your own copy of the repository. The url at the top should be your own username instead of `gcharest`:
 >`https://github.com/<your_username>/stratosphere`
 7. Navigate to the `names_noms.md` file
 8. Click on the `Edit` button
-8. Add your (or a) name to the list:
+9. Add your (or a) name to the list:
 >`* <your_name>`
-10. Clone the repository locally:
-![Cloning URL](assets/copy_link.png)
->`git clone <repository_url> <folder_name> && cd <name>`
-8. Add your (or a) name to the list:
->`* <your_name>`
-9. Go to the bottom of the page and add a short "commit message"
-10. Save (commit) the changes made to the file
-11. Create a pull request and enter a short message explaining your changes.
-12. Go back to the original project and look for your pull request
-
-
----
-
-12. Check the status of your changes
->`git status`
-11. Add your changes:
->`git add .`
-12. Commit your changes:
->`giStratospheret commit -m "<short commit message>"`
-13. Push your changes to your repository:
->`git push`
-14. Navigate to your GitHub repository:
+10. Navigate to the bottom of the page.
+11. Add a short comment explaining your change and clic on `Commit`
+12. Navigate back to the root of the repository by clicking on `Code`
+13. Notice the message explaining the difference between your copy and the original project
+14. Create a pull request and enter a short message explaining your changes.
+15. Go back to the original project and look for your pull request
 <!--markdownlint-enable MD029 MD032-->
 
 ---
