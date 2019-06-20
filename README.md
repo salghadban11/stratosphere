@@ -1,7 +1,5 @@
 ![Travis-CI Build Icon](https://travis-ci.com/gcharest/stratosphere.svg?branch=master)
 
-([Le français suit](#T%C3%A2che))
-
 # Stratosphere 
 
 Small project to go over the Git workflow with Stratosphere participants
@@ -41,11 +39,3 @@ You will need a GitHub account for this part.
 14. Create a pull request and enter a short message explaining your changes.
 15. Go back to the original project and look for your pull request
 <!--markdownlint-enable MD029 MD032-->
-
----
-
-# Stratosphère
-
-Petit projet à partager avec les participantes et les participants de Stratosphère pour passer en revue le flux de travail Git.
-
-## Tâche
